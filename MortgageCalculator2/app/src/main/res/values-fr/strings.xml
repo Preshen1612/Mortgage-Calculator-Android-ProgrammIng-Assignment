@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculateur d\'hypothèque</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="mortgage_calculator_title">CALCULATR D\'HOTHÈQU</string>
+    <string name="amount_borrowed">montant emprunté</string>
+    <string name="interest_rate">TAUX D\'INTÉRÊT</string>
+    <string name="taxes_and_insurances">TAXES ET ASSURANCES</string>
+    <string name="calculate">CALCULER</string>
+    <string name="monthly_payment">PAIEMENT MENSUEL</string>
+    <string name="loan_term">PRÊT TERME</string>
+    <string name="amount_borrowed_hint">Entrez une valeur flotta</string>
+    <string name="seek_bar_value">Valeur: 5.00</string>
+    <string name="monthly_payment_value"></string>
+    <string name="error_message">Ce champ ne peut être vide !</string>
+</resources>
